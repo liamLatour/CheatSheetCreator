@@ -1,0 +1,15 @@
+{
+  "name": "cheatsheetcreator",
+  "version": "1.0.0",
+  "description": "Used to create simple scientific cheat sheets",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Liam",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.4"
+  }
+}
